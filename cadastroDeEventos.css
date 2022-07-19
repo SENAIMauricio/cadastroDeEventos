@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.cadastro-botao {
+    font-size: 30pt;
+    width: 1000px;
+    height: 300px;
+    background-color: yellow;
+    color: blue;
+    font-weight: 400;
+    border: 3px blue solid;
+    cursor: pointer;
+}
+
